@@ -1,0 +1,1 @@
+git stash[D[D[D[D[D[C[C[C[C[C pop throws away the stash after appying it,whereas git stash apply leaves it in the stash list for possible reuse.
